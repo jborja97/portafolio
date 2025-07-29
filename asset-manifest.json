@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.c3053d83.css",
-    "main.js": "/portafolio/static/js/main.ac817e07.js",
+    "main.js": "/portafolio/static/js/main.07bbe4da.js",
     "static/media/Barberia.png": "/portafolio/static/media/Barberia.9c3e31f0520889bd0b3a.png",
     "static/media/Lms.png": "/portafolio/static/media/Lms.431aeec7e29c7b2932cc.png",
     "static/media/Analitica.png": "/portafolio/static/media/Analitica.df1750b0f57b61d3de9b.png",
@@ -21,10 +21,10 @@
     "static/media/inventario.jpeg": "/portafolio/static/media/inventario.b548c76781d3439ea42e.jpeg",
     "index.html": "/portafolio/index.html",
     "main.c3053d83.css.map": "/portafolio/static/css/main.c3053d83.css.map",
-    "main.ac817e07.js.map": "/portafolio/static/js/main.ac817e07.js.map"
+    "main.07bbe4da.js.map": "/portafolio/static/js/main.07bbe4da.js.map"
   },
   "entrypoints": [
     "static/css/main.c3053d83.css",
-    "static/js/main.ac817e07.js"
+    "static/js/main.07bbe4da.js"
   ]
 }
