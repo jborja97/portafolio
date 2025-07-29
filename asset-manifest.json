@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.c3053d83.css",
+    "main.js": "/portafolio/static/js/main.ac817e07.js",
+    "static/media/Barberia.png": "/portafolio/static/media/Barberia.9c3e31f0520889bd0b3a.png",
+    "static/media/Lms.png": "/portafolio/static/media/Lms.431aeec7e29c7b2932cc.png",
+    "static/media/Analitica.png": "/portafolio/static/media/Analitica.df1750b0f57b61d3de9b.png",
+    "static/media/portafolio.png": "/portafolio/static/media/portafolio.5b07f040e5e9280d141f.png",
+    "static/media/gestionapp.png": "/portafolio/static/media/gestionapp.7d88856a3f1e9775675b.png",
+    "static/media/E-commerce.png": "/portafolio/static/media/E-commerce.f580f2e90b61ff13cb0e.png",
+    "static/media/Sistemacms.png": "/portafolio/static/media/Sistemacms.6d27cc1f3bd971e8fcef.png",
+    "static/media/Reservas.png": "/portafolio/static/media/Reservas.8bb52f557018bc25a3bf.png",
+    "static/media/bootstrap-icons.woff?": "/portafolio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/portafolio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/chat.png": "/portafolio/static/media/chat.cd7504f42b1377654e02.png",
+    "static/media/sistemapos.png": "/portafolio/static/media/sistemapos.93dd3dcc88b00e305929.png",
+    "static/media/crud-spring.png": "/portafolio/static/media/crud-spring.bd2232c1684cd51d02a1.png",
+    "static/media/office.jpeg": "/portafolio/static/media/office.2b57b6aeb722ba29241e.jpeg",
+    "static/media/Crud-jsonserver.png": "/portafolio/static/media/Crud-jsonserver.a28e1aef54093fd0c6a5.png",
+    "static/media/perfil.jpeg": "/portafolio/static/media/perfil.7651ee5332f72cf530ab.jpeg",
+    "static/media/inventario.jpeg": "/portafolio/static/media/inventario.b548c76781d3439ea42e.jpeg",
+    "index.html": "/portafolio/index.html",
+    "main.c3053d83.css.map": "/portafolio/static/css/main.c3053d83.css.map",
+    "main.ac817e07.js.map": "/portafolio/static/js/main.ac817e07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3053d83.css",
+    "static/js/main.ac817e07.js"
+  ]
+}
